@@ -1,0 +1,49 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs
+task-odd-client/logs
+task-odd-client/*.log
+task-odd-client/npm-debug.log*
+task-odd-client/yarn-debug.log*
+task-odd-client/yarn-error.log*
+task-odd-client/pnpm-debug.log*
+task-odd-client/lerna-debug.log*
+
+task-odd-client/node_modules
+task-odd-client/dist
+task-odd-client/dist-ssr
+task-odd-client/*.local
+
+# Editor directories and files
+task-odd-client/.vscode/*
+task-odd-client/!.vscode/extensions.json
+task-odd-client/.idea
+task-odd-client/.DS_Store
+task-odd-client/*.suo
+task-odd-client/*.ntvs*
+task-odd-client/*.njsproj
+task-odd-client/*.sln
+task-odd-client/*.sw?
